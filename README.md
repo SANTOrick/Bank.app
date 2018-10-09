@@ -40,7 +40,6 @@ How to use
 From the terminal  
 `git clone https://github.com/SANTOrick/Bank.app.git`  
 `irb`  
-`require './bankapp.rb'`
-<img src="./example.png" width="400">
-to exit irb
-type `exit` in the terminal
+`require './bankapp.rb'`<br>
+<img src="./example.png" width="400"><br>
+To exit irb type `exit` in the terminal.
